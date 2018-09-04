@@ -1,4 +1,4 @@
-package andi.springframework.spring5webapp;
+package andi.springframework.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.HashSet;
